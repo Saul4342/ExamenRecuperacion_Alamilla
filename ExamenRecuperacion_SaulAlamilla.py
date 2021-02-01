@@ -1,5 +1,5 @@
 """
-Examen de recuperación
+Examen de recuperación Graficacion 3D
 Nombre: Saúl Humberto Alamilla Calixto
 Fecha: 01/02/2021
 NoControl 18390023
